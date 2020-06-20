@@ -1,4 +1,4 @@
-# sige-frontend
+# SIGE - Frontend
 
 ## Build Setup
 
