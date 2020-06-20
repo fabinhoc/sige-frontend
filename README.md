@@ -17,5 +17,9 @@ $ yarn start
 $ yarn generate
 ```
 
+## Backend
+Você encontra o backend da aplicação no reposotório a seguir:
+https://github.com/fabinhoc/sige/
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 "# sige-frontend" 
